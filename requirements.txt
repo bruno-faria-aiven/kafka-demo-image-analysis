@@ -1,0 +1,4 @@
+kafka-python==2.0.2
+pillow==10.4.0
+streamlit==1.38.0
+
